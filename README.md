@@ -1,5 +1,10 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Markus Glans</h1>
 
+
+<br>
+<br>
+<br>
+<h3>  🔭 I’m currently looking for an internship </h3>
 <!--
 **MarkusG94/MarkusG94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
