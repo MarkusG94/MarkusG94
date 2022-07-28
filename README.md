@@ -5,7 +5,6 @@
 <br>
 <br>
 <br>
-<h3>  🔭 I’m currently looking for an internship </h3> 
 <a href="mailto:markus_glans@hotmail.com">Send me a mail</a>
 
 <!--
