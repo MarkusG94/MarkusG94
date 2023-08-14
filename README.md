@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<a href="mailto:markus_glans@hotmail.com">Send me a mail</a>
+
 
 <!--
 **MarkusG94/MarkusG94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
